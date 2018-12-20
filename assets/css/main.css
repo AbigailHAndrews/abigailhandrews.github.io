@@ -1074,10 +1074,11 @@ a {
 }
 
 .home_text p{
-    text-decoration: underline;
+    
     color: #fff;
-    font-size: 10px;
-    font-weight: inherit;
+    font-size: 16px;
+    font-weight: bold;
+	text-shadow: 3px 2px #722f37;
 }
 
 .img-lightbox .col-md-6 {

@@ -991,6 +991,9 @@ a {
 .slide3 {
     background: url(../images/slider3.jpg);
 }
+.slide4 {
+    background: url(../images/slider4.jpg);
+}
 
 .bg {
 	min-height: 80vh;

@@ -516,9 +516,12 @@ a.notify-me {
 
 .logo {
 	font-size: 24px;
-	font-weight: bold;
+	font-weight: normal;
 	color: #fff;
 	text-decoration: none;
+	letter-spacing: 2px;
+	text-shadow: 3px 2px #722f37;
+	font-family: Impact, Charcoal, sans-serif;
 }
 
 .logo:hover{
@@ -979,10 +982,11 @@ a {
 }
 
 .slide1 {
-    background: url(../images/slider1.jpg);  
+    background: url(../images/slider1.png);  
 }
 .slide2 {
     background: url(../images/slider2.jpg);
+	display: block;
 }
 .slide3 {
     background: url(../images/slider3.jpg);
@@ -1004,9 +1008,9 @@ a {
     padding-top: 190px;
 }
 .head-text a {
-	text-decoration: underline;
+	
 	color: #fff;
-	font-size: 12px;
+	font-size: 16px;
     font-weight: inherit;
     letter-spacing: .4px;
 }

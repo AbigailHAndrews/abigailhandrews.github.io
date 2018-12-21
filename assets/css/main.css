@@ -986,7 +986,6 @@ a {
 }
 .slide2 {
     background: url(../images/slider2.jpg);
-	display: block;
 }
 .slide3 {
     background: url(../images/slider3.jpg);
@@ -994,7 +993,6 @@ a {
 .slide4 {
     background: url(../images/slider4.jpg);
 }
-
 .bg {
 	min-height: 80vh;
 	background-size: cover;

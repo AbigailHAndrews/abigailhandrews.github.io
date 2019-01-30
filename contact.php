@@ -1,10 +1,10 @@
 <?php
-if($_POST["submit"]) {
-	$rec = "nutmeggg14@gmail.com";
-	$subject = "Message from website";
-	$sender = $_POST["name"];
-	$senderEmail = $_POST["email"];
-	$message = $_POST["message"];
+if(isset($_GET["submit"])) {
+	echo $rec = "nutmeggg14@gmail.com";
+	echo $subject = "Message from website";
+	echo $sender = $_GET["name"];
+	echo $senderEmail = $_GET["email"];
+	echo $message = $_GET["message"];
 
 	$mailBody = "Name: $sender\nEmail: $senderEmail\n\n$message";
 

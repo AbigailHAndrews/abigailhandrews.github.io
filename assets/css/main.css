@@ -993,6 +993,8 @@ a {
 .slide4 {
     background: url(../images/slider4.jpg);
 }
+/* ADD HERE TO ADD ANOTHER IMAGE */
+
 .bg {
 	min-height: 80vh;
 	background-size: cover;

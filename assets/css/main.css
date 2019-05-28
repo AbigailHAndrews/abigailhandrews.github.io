@@ -993,6 +993,12 @@ a {
 .slide4 {
     background: url(../images/slider4.jpg);
 }
+.slide5 {
+    background: url(../images/slider5.jpg);
+}
+.slide6 {
+    background: url(../images/slider6.jpg);
+}
 /* ADD HERE TO ADD ANOTHER IMAGE */
 
 .bg {

@@ -130,7 +130,7 @@ $('.inline-popup').magnificPopup({
   
 });
 
-var slideIndex = 1;
+/*var slideIndex = 1;
 showBald(slideIndex);
 
 function plusBald(n) {
@@ -237,6 +237,7 @@ function showWit2(n) {
   }
   x[slideIndex-1].style.display = "block";  
 }
+*/
 /*$('.grid').masonry({
   // options
   itemSelector: '.grid-item',

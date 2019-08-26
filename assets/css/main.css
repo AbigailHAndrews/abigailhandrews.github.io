@@ -1306,7 +1306,7 @@ a {
 }
 
 .slide1 {
-    background: url(../images/slider1.jpg); 
+    background: url(../images/Slider1.jpg); 
 }
 .slide2 {
     background: url(../images/slider2.jpg);
@@ -1321,10 +1321,10 @@ a {
     background: url(../images/slider5.jpg);
 }
 .slide6 {
-    background: url(../images/slider6.jpg);
+    background: url(../images/Slider6.jpg);
 }
 .slide7 {
-    background: url(../images/slider7.jpg);
+    background: url(../images/Slider7.jpg);
 }
 
 /* ADD HERE TO ADD ANOTHER IMAGE */

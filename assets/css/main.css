@@ -135,7 +135,8 @@ ul {
 }
 .column1 {
   float: left;
-  Padding: 40pt;
+  Padding-left: 40pt;
+  padding-right: 40pt;
   width: 30%;
 }
 .column2 {
@@ -152,7 +153,7 @@ ul {
 .column4 {
   float: Right;
   margin: auto;
-  background-color: #722f37;
+  background-color: #202228;
   width: 73%;
 }
 

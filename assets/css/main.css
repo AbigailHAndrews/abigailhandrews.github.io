@@ -102,7 +102,6 @@ ul {
   font-size: 17px; 
   text-decoration: none;
 	letter-spacing: 2px;
-	text-shadow: 3px 2px #722f37;
 	}
   
 .topnav a:hover {
@@ -146,15 +145,11 @@ ul {
 
 .column3 {
   float: left;
-  background-color: #722f37;
-  width: 27%;
-  PAdding:20pt;
+  width: 30%;
 }
 .column4 {
   float: Right;
-  margin: auto;
-  background-color: #202228;
-  width: 73%;
+  width: 70%;
 }
 
 
